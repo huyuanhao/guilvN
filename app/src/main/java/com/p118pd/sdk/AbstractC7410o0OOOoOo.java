@@ -1,0 +1,74 @@
+package com.p118pd.sdk;
+
+/* renamed from: com.pd.sdk.o0OOOoOo  reason: case insensitive filesystem */
+public interface AbstractC7410o0OOOoOo {
+    public static final String OooO = "http://ns.adobe.com/iX/1.0/";
+    public static final int OooO00o = -1;
+
+    /* renamed from: OooO00o  reason: collision with other field name */
+    public static final String f20234OooO00o = "http://www.w3.org/XML/1998/namespace";
+    public static final String OooO0O0 = "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
+    public static final String OooO0OO = "http://purl.org/dc/elements/1.1/";
+    public static final String OooO0Oo = "http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/";
+    public static final String OooO0o = "http://ns.adobe.com/DICOM/";
+    public static final String OooO0o0 = "http://iptc.org/std/Iptc4xmpExt/2008-02-29/";
+    public static final String OooO0oO = "http://ns.useplus.org/ldf/xmp/1.0/";
+    public static final String OooO0oo = "adobe:ns:meta/";
+    public static final String OooOO0 = "http://ns.adobe.com/xap/1.0/";
+    public static final String OooOO0O = "http://ns.adobe.com/xap/1.0/rights/";
+    public static final String OooOO0o = "http://ns.adobe.com/xap/1.0/mm/";
+    public static final String OooOOO = "http://ns.adobe.com/xmp/note/";
+    public static final String OooOOO0 = "http://ns.adobe.com/xap/1.0/bj/";
+    public static final String OooOOOO = "http://ns.adobe.com/pdf/1.3/";
+    public static final String OooOOOo = "http://ns.adobe.com/pdfx/1.3/";
+    public static final String OooOOo = "http://www.aiim.org/pdfa/ns/schema#";
+    public static final String OooOOo0 = "http://www.npes.org/pdfx/ns/id/";
+    public static final String OooOOoo = "http://www.aiim.org/pdfa/ns/property#";
+    public static final String OooOo = "http://ns.adobe.com/photoshop/1.0/";
+    public static final String OooOo0 = "http://www.aiim.org/pdfa/ns/field#";
+    public static final String OooOo00 = "http://www.aiim.org/pdfa/ns/type#";
+    public static final String OooOo0O = "http://www.aiim.org/pdfa/ns/id/";
+    public static final String OooOo0o = "http://www.aiim.org/pdfa/ns/extension/";
+    public static final String OooOoO = "http://ns.adobe.com/exif/1.0/";
+    public static final String OooOoO0 = "http://ns.adobe.com/album/1.0/";
+    public static final String OooOoOO = "http://cipa.jp/exif/1.0/";
+    public static final String OooOoo = "http://ns.adobe.com/tiff/1.0/";
+    public static final String OooOoo0 = "http://ns.adobe.com/exif/1.0/aux/";
+    public static final String OooOooO = "http://ns.adobe.com/png/1.0/";
+    public static final String OooOooo = "http://ns.adobe.com/jpeg/1.0/";
+    public static final String Oooo = "http://ns.adobe.com/swf/1.0/";
+    public static final String Oooo0 = "http://ns.adobe.com/creatorAtom/1.0/";
+    public static final String Oooo000 = "http://ns.adobe.com/jp2k/1.0/";
+    public static final String Oooo00O = "http://ns.adobe.com/camera-raw-settings/1.0/";
+    public static final String Oooo00o = "http://ns.adobe.com/StockPhoto/1.0/";
+    public static final String Oooo0O0 = "http://ns.adobe.com/asf/1.0/";
+    public static final String Oooo0OO = "http://ns.adobe.com/xmp/wav/1.0/";
+    public static final String Oooo0o = "http://ns.adobe.com/riff/info/";
+    public static final String Oooo0o0 = "http://ns.adobe.com/bwf/bext/1.0/";
+    public static final String Oooo0oO = "http://ns.adobe.com/xmp/1.0/Script/";
+    public static final String Oooo0oo = "http://ns.adobe.com/TransformXMP/";
+    public static final String OoooO = "http://ns.adobe.com/xmp/Identifier/qual/1.0/";
+    public static final String OoooO0 = "http://ns.adobe.com/xmp/transient/1.0/";
+    public static final String OoooO00 = "http://ns.adobe.com/xmp/1.0/DynamicMedia/";
+    public static final String OoooO0O = "http://purl.org/dc/1.1/";
+    public static final String OoooOO0 = "http://ns.adobe.com/xap/1.0/sType/Dimensions#";
+    public static final String OoooOOO = "http://ns.adobe.com/xap/1.0/t/pg/";
+    public static final String OoooOOo = "http://ns.adobe.com/xap/1.0/g/";
+    public static final String OoooOo0 = "http://ns.adobe.com/xap/1.0/g/img/";
+    public static final String OoooOoO = "http://ns.adobe.com/xap/1.0/sType/Font#";
+    public static final String OoooOoo = "http://ns.adobe.com/xap/1.0/sType/ResourceEvent#";
+    public static final String Ooooo00 = "http://ns.adobe.com/xap/1.0/sType/ResourceRef#";
+    public static final String Ooooo0o = "http://ns.adobe.com/xap/1.0/sType/Version#";
+    public static final String OooooO0 = "http://ns.adobe.com/xap/1.0/sType/Job#";
+    public static final String OooooOO = "http://ns.adobe.com/xap/1.0/sType/ManifestItem#";
+    public static final String OooooOo = "True";
+    public static final String Oooooo = "[]";
+    public static final String Oooooo0 = "False";
+    public static final String OoooooO = "x-default";
+    public static final String Ooooooo = "xml:lang";
+    public static final String o000oOoO = "http://ns.adobe.com/xap/1.0/t/";
+    public static final String o00O0O = "xmpmeta";
+    public static final String o00Oo0 = "xapmeta";
+    public static final String o0OoOo0 = "rdf:type";
+    public static final String ooOO = "xpacket";
+}

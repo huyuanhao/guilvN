@@ -1,0 +1,53 @@
+package com.p118pd.sdk;
+
+/* renamed from: com.pd.sdk.L丨iLl丨I  reason: invalid class name and case insensitive filesystem */
+public class C5870LiLlI extends AbstractC5738Lil {
+    public I11L OooO00o;
+    public LlLI1 o00OoOOo;
+
+    public C5870LiLlI(I11li1 i11li1) {
+        if (i11li1.size() == 2) {
+            this.o00OoOOo = LlLI1.OooO00o(i11li1.OooO00o(0));
+            this.OooO00o = I11L.OooO00o((Object) i11li1.OooO00o(1));
+            return;
+        }
+        throw new IllegalArgumentException("Bad sequence size: " + i11li1.size());
+    }
+
+    public C5870LiLlI(LlLI1 llLI1, I11L i11l) {
+        this.o00OoOOo = llLI1;
+        this.OooO00o = i11l;
+    }
+
+    public static C5870LiLlI OooO00o(Object obj) {
+        if (obj instanceof C5870LiLlI) {
+            return (C5870LiLlI) obj;
+        }
+        if (obj != null) {
+            return new C5870LiLlI(I11li1.OooO00o(obj));
+        }
+        return null;
+    }
+
+    public I11L OooO00o() {
+        return this.OooO00o;
+    }
+
+    /* renamed from: OooO00o  reason: collision with other method in class */
+    public LlLI1 m16459OooO00o() {
+        return new LlLI1(this.o00OoOOo.m16387OooO0O0());
+    }
+
+    /* renamed from: OooO00o  reason: collision with other method in class */
+    public AbstractC6854lLi1LL[] m16460OooO00o() {
+        return this.OooO00o.m15218OooO00o();
+    }
+
+    @Override // com.p118pd.sdk.AbstractC5738Lil, com.p118pd.sdk.AbstractC6854lLi1LL
+    public AbstractC6122iIlLiL OooO0O0() {
+        iILLL1 r0 = new iILLL1();
+        r0.OooO00o(this.o00OoOOo);
+        r0.OooO00o(this.OooO00o);
+        return new C5707LiL1(r0);
+    }
+}

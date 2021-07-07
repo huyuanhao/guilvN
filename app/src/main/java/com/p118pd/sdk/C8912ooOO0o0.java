@@ -1,0 +1,54 @@
+package com.p118pd.sdk;
+
+/* renamed from: com.pd.sdk.ooOO0o0  reason: case insensitive filesystem */
+public class C8912ooOO0o0 {
+    public static final String OooO = "device_total_memory";
+    public static final String OooO00o = "id";
+    public static final String OooO0O0 = "level";
+    public static final String OooO0OO = "category";
+    public static final String OooO0Oo = "name";
+    public static final String OooO0o = "device_id";
+    public static final String OooO0o0 = "data";
+    public static final String OooO0oO = "device_model";
+    public static final String OooO0oo = "device_vendor";
+    public static final String OooOO0 = "device_available_memory";
+    public static final String OooOO0O = "app_max_available_memory";
+    public static final String OooOO0o = "app_current_memory";
+    public static final String OooOOO = "os_version";
+    public static final String OooOOO0 = "os";
+    public static final String OooOOOO = "is_root";
+    public static final String OooOOOo = "is_real_device";
+    public static final String OooOOo = "browser_ua";
+    public static final String OooOOo0 = "browser";
+    public static final String OooOOoo = "operator";
+    public static final String OooOo = "package_name";
+    public static final String OooOo0 = "ip_address";
+    public static final String OooOo00 = "network_type";
+    public static final String OooOo0O = "country";
+    public static final String OooOo0o = "area";
+    public static final String OooOoO = "app_version";
+    public static final String OooOoO0 = "app_name";
+    public static final String OooOoOO = "binary_version";
+    public static final String OooOoo = "channel";
+    public static final String OooOoo0 = "market_channel";
+    public static final String OooOooO = "rn_app_version";
+    public static final String OooOooo = "rn_lib_version";
+    public static final String Oooo = "startup_duration";
+    public static final String Oooo0 = "related_uid";
+    public static final String Oooo000 = "cp_lib_version";
+    public static final String Oooo00O = "client";
+    public static final String Oooo00o = "uid";
+    public static final String Oooo0O0 = "mobile";
+    public static final String Oooo0OO = "client_timestamp";
+    public static final String Oooo0o = "server_timestamp";
+    public static final String Oooo0o0 = "client_time";
+    public static final String Oooo0oO = "server_time";
+    public static final String Oooo0oo = "startup_times";
+    public static final String OoooO = "page_params";
+    public static final String OoooO0 = "session_duration";
+    public static final String OoooO00 = "session_times";
+    public static final String OoooO0O = "page_url";
+    public static final String OoooOO0 = "from_url";
+    public static final String OoooOOO = "code_env";
+    public static final String o000oOoO = "from_params";
+}
